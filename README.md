@@ -26,7 +26,7 @@ Chase, J., & Niyato, D. (2015). Joint optimization of resource provisioning in c
 ### Performance
 
 #### Time Elapse
-<p align="center"><img width="80%" src="fig/time.png" /></p>
+<p align="center"><img width="60%" src="fig/time.png" /></p>
 
 #### Iterations
-<p align="center"><img width="80%" src="fig/iter.png" /></p>
+<p align="center"><img width="60%" src="fig/iter.png" /></p>
