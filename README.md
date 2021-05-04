@@ -15,7 +15,7 @@ Chase, J., & Niyato, D. (2015). Joint optimization of resource provisioning in c
 * [Python 3.7](https://www.python.org/)
 * [Gurobi 9.1](https://www.gurobi.com/)
 
-## Methods
+### Methods
 - [Extensive From](https://github.com/LucasBoTang/Decomposition_Method_for_Two-Stage_Stochastic_Cloud_Computing_Optimization/blob/main/algo/extensiveForm.py)
 - [Multi-Cut Benders](https://github.com/LucasBoTang/Decomposition_Method_for_Two-Stage_Stochastic_Cloud_Computing_Optimization/blob/main/algo/multiBenders.py)
 - [Single-Cut Benders](https://github.com/LucasBoTang/Decomposition_Method_for_Two-Stage_Stochastic_Cloud_Computing_Optimization/blob/main/algo/singleBenders.py)
@@ -23,10 +23,10 @@ Chase, J., & Niyato, D. (2015). Joint optimization of resource provisioning in c
 - [Level Method](https://github.com/LucasBoTang/Decomposition_Method_for_Two-Stage_Stochastic_Cloud_Computing_Optimization/blob/main/algo/levelMethod.py)
 - [Trust Region](https://github.com/LucasBoTang/Decomposition_Method_for_Two-Stage_Stochastic_Cloud_Computing_Optimization/blob/main/algo/trustRegion.py)
 
-## Performance
+### Performance
 
-### Time Elapse
+#### Time Elapse
 <p align="center"><img width="80%" src="fig/time.png" /></p>
 
-### Iterations
+#### Iterations
 <p align="center"><img width="80%" src="fig/iter.png" /></p>
